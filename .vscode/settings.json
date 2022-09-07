@@ -1,0 +1,12 @@
+{
+    "cucumberautocomplete.steps": [
+        "src/test/java/com/leantech/**/*.feature",
+        "src/test/java/com/leantech/**/*.java"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumber.glue": [
+        "src/test/java/com/leantech/**/*.java",
+        
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
